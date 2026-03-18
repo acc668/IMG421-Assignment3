@@ -8,7 +8,7 @@ A Unity-based flocking simulation built around Craig Reynolds' Boids algorithm, 
  
 ## Play It
  
-- **WebGL Build:** [Play on WebGL](#) *(link coming soon)*
+- **WebGL Build:** [Play on WebGL](https://acc668.github.io/IMG421-Assignment3/)
 - **Video Walkthrough:** [Watch on YouTube](https://youtu.be/2TET8kPOCu8)
 - **GitHub Repo:** [View Source](https://github.com/acc668/IMG421-Assignment3)
  
