@@ -1,5 +1,7 @@
 # IMG421-Assignment3
 
+>  **Epilepsy Warning:** This simulation contains flashing lights, rapid color changes, and chromatic aberration effects that may affect people with photosensitive epilepsy. Player discretion is advised.
+
 A Unity-based flocking simulation built around Craig Reynolds' Boids algorithm, themed as a neon cyberpunk city. Boids navigate a dark cityscape of glowing buildings while avoiding obstacles, leaving neon gradient trails in their wake.
  
 ---
